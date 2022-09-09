@@ -2,4 +2,4 @@
 
 Here are some ideas to get you started:
 
-- I’m currently working on <a href="[compar.az](https://compar.az)">ComparAcademy</a> and <a href="compar.az">Websuper</a>
+- I’m currently working on [compar.az](https://compar.az) and <a href="compar.az">Websuper</a>
